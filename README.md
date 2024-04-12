@@ -31,10 +31,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 ## Steps I took to complete this project
 
-<ol>
 1. I created a repository titled "mcdermott-challenge-02" with a README file.
 2. I cloned the repository to my local machine and started to build out my html and css files and linked them together in the html.
-3. I created my header with my title and avatar
+3. I created my header with my title and avatar.
 4. I created a navigation bar in the header.
 5. I created the body to include projects that I've been working on. These include shaded, rounded boxes with images utilizing shadow-box and border-radius attributes in the css file.
 6. The images for projects that I've completed include a link to url of the completed project.
@@ -42,4 +41,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 8. I created a footer with a navigation bar of links to ways to connect with me.
 9. In the header navigation bar, I connected the links to the appropriate sections of the page. 
 10. I created the page in a responsive manner so that the images move, based on the size of the browser that's viewing it. 
+11. I utilized various snippets of code that we've used in previous activities to piece together the content for this portfolio.
 
