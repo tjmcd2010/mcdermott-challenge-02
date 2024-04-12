@@ -36,7 +36,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 2. I cloned the repository to my local machine and started to build out my html and css files and linked them together in the html.
 3. I created my header with my title and avatar
 4. I created a navigation bar in the header.
-5. I created the body to include projects that I've been working on. These include shaded, rotated boxes with images.
+5. I created the body to include projects that I've been working on. These include shaded, rounded boxes with images utilizing shadow-box and border-radius attributes in the css file.
 6. The images for projects that I've completed include a link to url of the completed project.
 7. The first project listed has an image that is larger than the others. 
 8. I created a footer with a navigation bar of links to ways to connect with me.
