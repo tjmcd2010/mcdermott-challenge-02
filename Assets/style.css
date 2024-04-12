@@ -83,8 +83,9 @@ aside {
   padding: 10px;
   margin: 30px;
   flex: 0 0 300px;
+  box-shadow: 5px 10px #888888;
   border-radius: 20px;
-  transform:rotate(3deg)
+
 }
 /*added border radius details*/
 .card header {
