@@ -1,8 +1,10 @@
+/* created root selectors to utilize frequently throughout the page */
 :root {
 --dark: #13293d;
 --light: #ffff;
 --borders: 53px; 
 }
+/*added avatar attributes to have a small rounded avatar of my image */
 .avatar {
   vertical-align: middle;
   width: 100px;
@@ -53,13 +55,14 @@ nav a {
 }
 
 nav a:hover {
-  background-color: whi
+  background-color: white;
 }
 
 main {
   display: flex;
   flex-wrap: wrap;
 }
+/* Utilized aside to have a for styling and separating sections */
 aside {
   flex: 2;
   background-color: rgb(180, 177, 177) ;
@@ -77,6 +80,7 @@ aside {
   justify-content: space-evenly;
   align-items: flex-start;
 }
+/* Added box shadow for styling */
 .card {
   border-style: solid;
   border-width: 10px;
@@ -87,7 +91,7 @@ aside {
   border-radius: 20px;
 
 }
-/*added border radius details*/
+/*added border radius details to round the edges*/
 .card header {
   padding: 20px;
   border-radius: 50px 50px 0px 0px;
@@ -102,7 +106,7 @@ aside {
  width: 100%;
 
 }
-
+/* added attributes to make the site more responsive */
 @media screen and (max-width: 768px) {
   main,
   nav {
@@ -124,15 +128,11 @@ aside {
 .navbar ul {
   padding:0;
   list-style:none;
-  text-align:center;
   font-size: 30px;
-  line: height 2.5em;;
-  margin-bottom:0;
-  align-content: space-between;
 }
 
 .navbar li {
-  padding:0 75px;
+  padding: 75px 75px; 
   float: left;
 }
 

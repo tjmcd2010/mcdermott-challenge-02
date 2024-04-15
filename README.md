@@ -38,8 +38,11 @@ THEN I am presented with a responsive layout that adapts to my viewport
 5. I created the body to include projects that I've been working on. These include shaded, rounded boxes with images utilizing shadow-box and border-radius attributes in the css file.
 6. The images for projects that I've completed include a link to url of the completed project.
 7. The first project listed has an image that is larger than the others. 
+![See screenshot](<Images/Projects screenshot.png>)
 8. I created a footer with a navigation bar of links to ways to connect with me.
+![See screenshot](<Images/Footer screenshot.png>)
 9. In the header navigation bar, I connected the links to the appropriate sections of the page. 
 10. I created the page in a responsive manner so that the images move, based on the size of the browser that's viewing it. 
+![See screenshot](<Images/Responsiveness screenshot.png>)
 11. I utilized various snippets of code that we've used in previous activities to piece together the content for this portfolio.
 
